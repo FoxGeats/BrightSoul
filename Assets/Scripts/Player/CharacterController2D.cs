@@ -162,6 +162,7 @@ public class CharacterController2D : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         UpdateGrounding(collision, false);
+       
     }
 
     private void OnCollisionStay2D(Collision2D collision)

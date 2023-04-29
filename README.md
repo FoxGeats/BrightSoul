@@ -1,12 +1,9 @@
 # Bright Soul
 
+Must use Unity 2019.3.2f1 version or higher
 
- 
-必须使用 Unity 2019.3.2f1 版本以上
-经测试，Unity 2019.3.2f1 可用，所以推荐 Unity 2019.3.2f1
+The dependencies of Packages should need to be downloaded online, if not available
 
-Packages的依赖应该需要在线下载，若没有的话
+The project uses Universal Render Pipeline+Input System
 
-项目使用 Universal Render Pipeline + Input System
-
-Demo View Follow the Link -> 
+Demo View Follow the Link -> https://www.youtube.com/watch?v=4IJDMgSF-_8
